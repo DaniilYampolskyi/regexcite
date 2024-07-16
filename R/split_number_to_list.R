@@ -17,3 +17,4 @@ split_number_to_list <- function(number) {
 
   return(result)
 }
+
